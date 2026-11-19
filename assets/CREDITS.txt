@@ -1,0 +1,96 @@
+Sankaku @ SFO website mockups: photo credits
+============================================================
+
+San Francisco and SFO photographs are from Wikimedia Commons, used under the licenses below.
+Changes made: resized, light colour grading (per season palette) and cropped by CSS as a background where noted. No endorsement by the authors is implied.
+
+[sf_skyline_ship.jpg]
+  Title:   Golden Gate Bridge and San Francisco and cruise ship
+  Author:  Brocken Inaglory
+  License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
+  Source:  https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_and_San_Francisco_and_cruise_ship.jpg
+  Used on: A home · San Francisco band
+  Edits:   resized to max 2000px / 900px, light spring colour grade
+
+[sfo_lufthansa.jpg]
+  Title:   Lufthansa Boeing 747-8i D-ABYT taxiing at San Francisco February 2026 2
+  Author:  4300streetcar
+  License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)
+  Source:  https://commons.wikimedia.org/wiki/File:Lufthansa_Boeing_747-8i_D-ABYT_taxiing_at_San_Francisco_February_2026_2.jpg
+  Used on: A home · SFO plane strip
+  Edits:   resized to max 2000px / 900px, light spring colour grade
+
+[sf_ggb_north.jpg]
+  Title:   Golden Gate Bridge, North view
+  Author:  Radomianin
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+  Source:  https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge,_North_view.jpg
+  Used on: A menu header · landing page hero
+  Edits:   resized to max 2000px / 900px, light spring colour grade
+
+[sfo_gate_hall.jpg]
+  Title:   2025-08-12 09 20 15 View of the G gate side of the International Terminal at San Francisco International Airport in San Mateo County, California
+  Author:  Famartin
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+  Source:  https://commons.wikimedia.org/wiki/File:2025-08-12_09_20_15_View_of_the_G_gate_side_of_the_International_Terminal_at_San_Francisco_International_Airport_in_San_Mateo_County,_California.jpg
+  Used on: B home · hero background
+  Edits:   resized to max 2000px / 900px, light summer colour grade
+
+[sfo_a380_bay.jpg]
+  Title:   Emirates A-380, taxiing to international arrival gate SFO (26772199360)
+  Author:  Bill Abbott
+  License: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)
+  Source:  https://commons.wikimedia.org/wiki/File:Emirates_A-380,_taxiing_to_international_arrival_gate_SFO_(26772199360).jpg
+  Used on: B home · departure board background · landing page hero
+  Edits:   resized to max 2000px / 900px, light summer colour grade
+
+[sf_cablecar.jpg]
+  Title:   San Francisco Cable Car 13
+  Author:  Dllu
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+  Source:  https://commons.wikimedia.org/wiki/File:San_Francisco_Cable_Car_13.jpg
+  Used on: B home · Beyond the gate
+  Edits:   resized to max 2000px / 900px, light summer colour grade
+
+[sf_painted.jpg]
+  Title:   Painted Ladies San Francisco January 2013 001
+  Author:  King of Hearts
+  License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
+  Source:  https://commons.wikimedia.org/wiki/File:Painted_Ladies_San_Francisco_January_2013_001.jpg
+  Used on: B home · Beyond the gate
+  Edits:   resized to max 2000px / 900px, light summer colour grade
+
+[sfo_t3_corridor.jpg]
+  Title:   2022-03-24 21 06 49 UTC minus 7 Corridor near the F gates at Terminal 3 of San Francisco International Airport in San Mateo County, California
+  Author:  Famartin
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+  Source:  https://commons.wikimedia.org/wiki/File:2022-03-24_21_06_49_UTC_minus_7_Corridor_near_the_F_gates_at_Terminal_3_of_San_Francisco_International_Airport_in_San_Mateo_County,_California.jpg
+  Used on: B menu header
+  Edits:   resized to max 2000px / 900px, light summer colour grade
+
+[sf_ggb_fog.jpg]
+  Title:   San Francisco (CA, USA), Golden Gate Bridge -- 2022 -- 3019
+  Author:  Dietmar Rabich
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+  Source:  https://commons.wikimedia.org/wiki/File:San_Francisco_(CA,_USA),_Golden_Gate_Bridge_--_2022_--_3019.jpg
+  Used on: C home · hero background
+  Edits:   resized to max 2000px / 900px, light autumn colour grade
+
+[sfo_tower_a380.jpg]
+  Title:   SFO - New Control Tower & A380
+  Author:  Basil D Soufi
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+  Source:  https://commons.wikimedia.org/wiki/File:SFO_-_New_Control_Tower_%26_A380.jpg
+  Used on: C home · window seat band
+  Edits:   resized to max 2000px / 900px, light autumn colour grade
+
+[sf_ggb_baker.jpg]
+  Title:   GoldenGateBridge BakerBeach MC
+  Author:  Christian Mehlführer, User:Chmehl
+  License: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)
+  Source:  https://commons.wikimedia.org/wiki/File:GoldenGateBridge_BakerBeach_MC.jpg
+  Used on: C menu header
+  Edits:   resized to max 2000px / 900px, light autumn colour grade
+
+Food and restaurant photographs and video stills are the client's own footage (Sanraku / Wakaba kitchen and the Terminal 3 counter), used as placeholders.
+Fonts and logos: see the mockup source.
