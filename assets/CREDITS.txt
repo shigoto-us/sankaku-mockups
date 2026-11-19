@@ -4,6 +4,38 @@ Sankaku @ SFO website mockups: photo credits
 San Francisco and SFO photographs are from Wikimedia Commons, used under the licenses below.
 Changes made: resized, light colour grading (per season palette) and cropped by CSS as a background where noted. No endorsement by the authors is implied.
 
+[sfo_gate_hall.jpg]
+  Title:   2025-08-12 09 20 15 View of the G gate side of the International Terminal at San Francisco International Airport in San Mateo County, California
+  Author:  Famartin
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+  Source:  https://commons.wikimedia.org/wiki/File:2025-08-12_09_20_15_View_of_the_G_gate_side_of_the_International_Terminal_at_San_Francisco_International_Airport_in_San_Mateo_County,_California.jpg
+  Used on: B home · hero (top) · landing page hero (right)
+  Edits:   resized to max 2000px / 900px, light summer colour grade
+
+[sfo_t3_corridor.jpg]
+  Title:   2022-03-24 21 06 49 UTC minus 7 Corridor near the F gates at Terminal 3 of San Francisco International Airport in San Mateo County, California
+  Author:  Famartin
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+  Source:  https://commons.wikimedia.org/wiki/File:2022-03-24_21_06_49_UTC_minus_7_Corridor_near_the_F_gates_at_Terminal_3_of_San_Francisco_International_Airport_in_San_Mateo_County,_California.jpg
+  Used on: C home · hero (top) – Terminal 3
+  Edits:   resized to max 2000px / 900px, light autumn colour grade
+
+[sfo_e_art.jpg]
+  Title:   SFO boarding area E art (12123876073)
+  Author:  DearEdward from New York, NY, USA
+  License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)
+  Source:  https://commons.wikimedia.org/wiki/File:SFO_boarding_area_E_art_(12123876073).jpg
+  Used on: B menu · header (top) – Terminal 3, Boarding Area E
+  Edits:   resized to max 2000px / 900px, light summer colour grade
+
+[sfo_intl_interior.jpg]
+  Title:   SFO International Terminal (3192187408)
+  Author:  Craig Howell from San Carlos, CA, USA
+  License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)
+  Source:  https://commons.wikimedia.org/wiki/File:SFO_International_Terminal_(3192187408).jpg
+  Used on: C menu · header (top)
+  Edits:   resized to max 2000px / 900px, light autumn colour grade
+
 [sf_skyline_ship.jpg]
   Title:   Golden Gate Bridge and San Francisco and cruise ship
   Author:  Brocken Inaglory
@@ -20,28 +52,12 @@ Changes made: resized, light colour grading (per season palette) and cropped by 
   Used on: A home · SFO plane strip
   Edits:   resized to max 2000px / 900px, light spring colour grade
 
-[sf_ggb_north.jpg]
-  Title:   Golden Gate Bridge, North view
-  Author:  Radomianin
-  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
-  Source:  https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge,_North_view.jpg
-  Used on: A menu header · landing page hero
-  Edits:   resized to max 2000px / 900px, light spring colour grade
-
-[sfo_gate_hall.jpg]
-  Title:   2025-08-12 09 20 15 View of the G gate side of the International Terminal at San Francisco International Airport in San Mateo County, California
-  Author:  Famartin
-  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
-  Source:  https://commons.wikimedia.org/wiki/File:2025-08-12_09_20_15_View_of_the_G_gate_side_of_the_International_Terminal_at_San_Francisco_International_Airport_in_San_Mateo_County,_California.jpg
-  Used on: B home · hero background
-  Edits:   resized to max 2000px / 900px, light summer colour grade
-
 [sfo_a380_bay.jpg]
   Title:   Emirates A-380, taxiing to international arrival gate SFO (26772199360)
   Author:  Bill Abbott
   License: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)
   Source:  https://commons.wikimedia.org/wiki/File:Emirates_A-380,_taxiing_to_international_arrival_gate_SFO_(26772199360).jpg
-  Used on: B home · departure board background · landing page hero
+  Used on: B home · departure board background
   Edits:   resized to max 2000px / 900px, light summer colour grade
 
 [sf_cablecar.jpg]
@@ -60,12 +76,12 @@ Changes made: resized, light colour grading (per season palette) and cropped by 
   Used on: B home · Beyond the gate
   Edits:   resized to max 2000px / 900px, light summer colour grade
 
-[sfo_t3_corridor.jpg]
-  Title:   2022-03-24 21 06 49 UTC minus 7 Corridor near the F gates at Terminal 3 of San Francisco International Airport in San Mateo County, California
-  Author:  Famartin
+[sf_ggb_north.jpg]
+  Title:   Golden Gate Bridge, North view
+  Author:  Radomianin
   License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
-  Source:  https://commons.wikimedia.org/wiki/File:2022-03-24_21_06_49_UTC_minus_7_Corridor_near_the_F_gates_at_Terminal_3_of_San_Francisco_International_Airport_in_San_Mateo_County,_California.jpg
-  Used on: B menu header
+  Source:  https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge,_North_view.jpg
+  Used on: B home · Beyond the gate
   Edits:   resized to max 2000px / 900px, light summer colour grade
 
 [sf_ggb_fog.jpg]
@@ -73,7 +89,7 @@ Changes made: resized, light colour grading (per season palette) and cropped by 
   Author:  Dietmar Rabich
   License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
   Source:  https://commons.wikimedia.org/wiki/File:San_Francisco_(CA,_USA),_Golden_Gate_Bridge_--_2022_--_3019.jpg
-  Used on: C home · hero background
+  Used on: C home · San Francisco band
   Edits:   resized to max 2000px / 900px, light autumn colour grade
 
 [sfo_tower_a380.jpg]
@@ -84,13 +100,5 @@ Changes made: resized, light colour grading (per season palette) and cropped by 
   Used on: C home · window seat band
   Edits:   resized to max 2000px / 900px, light autumn colour grade
 
-[sf_ggb_baker.jpg]
-  Title:   GoldenGateBridge BakerBeach MC
-  Author:  Christian Mehlführer, User:Chmehl
-  License: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)
-  Source:  https://commons.wikimedia.org/wiki/File:GoldenGateBridge_BakerBeach_MC.jpg
-  Used on: C menu header
-  Edits:   resized to max 2000px / 900px, light autumn colour grade
-
-Food and restaurant photographs and video stills are the client's own footage (Sanraku / Wakaba kitchen and the Terminal 3 counter), used as placeholders.
+Sankaku storefront photos (landing, A home, A menu tops) and food photos are the client's own photos/stills (faces blurred), used as placeholders.
 Fonts and logos: see the mockup source.
