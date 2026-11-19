@@ -21,9 +21,17 @@ h1{font-size:clamp(28px,5vw,44px);margin:14px 0 6px;color:#3A2A26;letter-spacing
 footer{text-align:center;color:#75624F;font-size:13px;padding:30px 20px 40px}
 @media(max-width:720px){body{font-size:15px;line-height:1.55}header{padding:36px 22px 16px}h1{font-size:24px;line-height:1.2}.intro{font-size:15px}.jp{font-size:13.5px;line-height:1.75}.cards{gap:28px;padding:0 20px}.body{padding:20px 20px 24px}.card h2{font-size:18px;line-height:1.25}.card p{font-size:14px;line-height:1.6}.btn{font-size:14px;min-height:44px;display:flex;align-items:center;justify-content:center}.note{margin:28px 20px 0;font-size:14px;line-height:1.6}footer{font-size:13px;padding:28px 20px 44px}.strip{font-size:14px}}
 .cards article:nth-child(2) .tag,.cards article:nth-child(2) .btn.p{background:#3F6B1C}.cards article:nth-child(2) .btn{border-color:#3F6B1C;color:#3F6B1C}.cards article:nth-child(2) .btn.p{color:#fff}.cards article:nth-child(3) .tag,.cards article:nth-child(3) .btn.p{background:#B0361E}.cards article:nth-child(3) .btn{border-color:#B0361E;color:#B0361E}.cards article:nth-child(3) .btn.p{color:#fff}.cards article .btn:hover{background:#F1E3A8;border-color:#F1E3A8;color:#3A2A26}
+.lph{display:grid;grid-template-columns:1fr 1fr;height:clamp(240px,30vw,400px)}
+.lph>div{background-size:cover;background-repeat:no-repeat}
+.lph .p1{background-image:url(assets/sf/sf_ggb_north.jpg);background-position:28% 38%}
+.lph .p2{background-image:url(assets/sf/sfo_a380_bay.jpg);background-position:68% 50%}
+header.lcard{position:relative;max-width:860px;margin:-120px auto 0;background:rgba(251,247,236,.96);border-radius:24px;padding:30px 32px 26px;box-shadow:0 18px 50px rgba(40,28,20,.18)}
+footer a{color:#8A2C4D;display:inline-block;padding:10px 4px;text-decoration:underline}
+@media(max-width:720px){.lph{display:block;height:auto}.lph>div{aspect-ratio:3/2}.lph .p1{background-image:url(assets/sf/sf_ggb_north_m.jpg);background-position:30% 40%}.lph .p2{display:none}header.lcard{margin:-40px 14px 0;padding:24px 18px 18px;border-radius:20px}}
 </style></head><body>
 <div class="strip">✈ Draft mockups · デザイン案（仮）</div>
-<header>
+<div class="lph" role="img" aria-label="Golden Gate Bridge and an aircraft at SFO"><div class="p1"></div><div class="p2"></div></div>
+<header class="lcard">
 <img src="assets/logo/logo_sankaku_a.svg" alt="Sankaku Sushi &amp; Noodle">
 <h1>Sankaku @ SFO — Website Design Proposals</h1>
 <div class="intro">
@@ -31,10 +39,10 @@ footer{text-align:center;color:#75624F;font-size:13px;padding:30px 20px 40px}
 <p class="jp">サンカクの新しいウェブサイトのデザイン案を3つご用意しました。各案の「Home」「Menu」をご覧いただき、気に入った案や組み合わせたい点をお知らせください。</p>
 </div></header>
 <main class="cards">
-<article class="card"><a class="thumb" href="a/index.html"><img src="thumbs/a.jpg" alt="Design A preview" loading="lazy"></a><div class="body"><span class="tag">A</span><h2>Fuel up. Take off.</h2><p>春 Spring: sakura pink, soft green and kinari cream, with a big sushi hero.<br>春：桜色・若草色・生成りの、やわらかく明るい配色。寿司の大きなヒーロー写真。</p><div class="btns"><a class="btn p" href="a/index.html">Home</a><a class="btn" href="a/menu.html">Menu</a></div></div></article>
-<article class="card"><a class="thumb" href="b/index.html"><img src="thumbs/b.jpg" alt="Design B preview" loading="lazy"></a><div class="body"><span class="tag">B</span><h2>Your layover just got delicious.</h2><p>夏 Summer: young-bamboo green, yellow rapeseed and shironeri white, on a boarding-pass and departure-board theme.<br>夏：若竹色・菜の花色・白練の、搭乗券／出発案内板モチーフ。乗り継ぎ時間別のおすすめ付き。</p><div class="btns"><a class="btn p" href="b/index.html">Home</a><a class="btn" href="b/menu.html">Menu</a></div></div></article>
-<article class="card"><a class="thumb" href="c/index.html"><img src="thumbs/c.jpg" alt="Design C preview" loading="lazy"></a><div class="body"><span class="tag">C</span><h2>Sushi, noodles &amp; a little calm.</h2><p>秋 Autumn: maple vermilion, persimmon and kiwaraba ochre on a gofun-white base, built around the Sankaku triangle.<br>秋：紅葉の朱・柿色・黄朽葉を胡粉の白に合わせた、三角形モチーフの上品なデザイン。</p><div class="btns"><a class="btn p" href="c/index.html">Home</a><a class="btn" href="c/menu.html">Menu</a></div></div></article>
+<article class="card"><a class="thumb" href="a/index.html"><img src="thumbs/a.jpg" alt="Design A preview" loading="lazy"></a><div class="body"><span class="tag">A</span><h2>Fuel up. Take off.</h2><p>春 Spring: sakura pink, soft green and kinari cream, with a big sushi hero and Golden Gate / SFO photo bands.<br>春：桜色・若草色・生成りの、やわらかく明るい配色。寿司の大きなヒーロー写真と、ゴールデンゲート／SFOの写真帯。</p><div class="btns"><a class="btn p" href="a/index.html">Home</a><a class="btn" href="a/menu.html">Menu</a></div></div></article>
+<article class="card"><a class="thumb" href="b/index.html"><img src="thumbs/b.jpg" alt="Design B preview" loading="lazy"></a><div class="body"><span class="tag">B</span><h2>Your layover just got delicious.</h2><p>夏 Summer: young-bamboo green, yellow rapeseed and shironeri white, on a boarding-pass and departure-board theme, over SFO terminal photos and a San Francisco layover guide.<br>夏：若竹色・菜の花色・白練の、搭乗券／出発案内板モチーフ。SFOターミナルの写真と、サンフランシスコ観光ガイド付き。</p><div class="btns"><a class="btn p" href="b/index.html">Home</a><a class="btn" href="b/menu.html">Menu</a></div></div></article>
+<article class="card"><a class="thumb" href="c/index.html"><img src="thumbs/c.jpg" alt="Design C preview" loading="lazy"></a><div class="body"><span class="tag">C</span><h2>Sushi, noodles &amp; a little calm.</h2><p>秋 Autumn: maple vermilion, persimmon and kiwaraba ochre on a gofun-white base, built around the Sankaku triangle, with a calm Golden Gate fog hero and big food photo bands.<br>秋：紅葉の朱・柿色・黄朽葉を胡粉の白に合わせた、三角形モチーフの上品なデザイン。霧のゴールデンゲートと大きな料理写真。</p><div class="btns"><a class="btn p" href="c/index.html">Home</a><a class="btn" href="c/menu.html">Menu</a></div></div></article>
 </main>
 <div class="note"><b>Draft mockups — images, copy, hours are placeholders.</b><br>仮のデザイン案です。画像・文章・営業時間などは仮のものです。</div>
-<footer>Private preview for review only · レビュー用の非公開プレビュー</footer>
+<footer>Private preview for review only · レビュー用の非公開プレビュー<br><a href="credits.html">Photo credits</a></footer>
 </body></html>
